@@ -14,7 +14,13 @@ Definitions
 
 "Affiliate" means any entity that directly or indirectly controls, is controlled by, or is under common control with you.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of the Software, to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to Section 1 where it applies.
+"Distribute" means to make copies of the Software, or of a Derivative Work, available to any other person or entity by any means, including by posting them on a website or code repository, and including by making the Software available for use over a network, such as through a hosted service. "Redistribute" has the same meaning.
+
+"Private use" means use of the Software that does not involve distributing it, or making it available for use, to any other person or entity.
+
+"Substantial portion" means a part of the Software that is significant in quantity or quality, including any core algorithm or central component of the Software.
+
+Permission is hereby granted, without any license fee, to any person obtaining a copy of the Software, to use, copy, modify, merge, publish, distribute, and sublicense copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to Section 1 and Section 1A where they apply.
 
 1. Conditions for Redistribution and Derivative Works
 
@@ -28,13 +34,17 @@ If you redistribute the Software or distribute a Derivative Work, you must:
 
 (c) in modified files, include a notice stating that the files have been changed.
 
+1A. Substantial Modification Required for Distribution
+
+You may not redistribute the Software, in source or binary form, or distribute a Derivative Work, unless it has been substantially modified. A modification is substantial only if it adds, removes, or changes the functionality of the Software. Incorporating the Software into another product or service is a substantial modification, provided that the product or service adds substantial functionality beyond the Software itself. Wrapping the Software in a product that adds no substantial functionality of its own, such as a splash screen, menu, or launcher, is not a substantial modification. Cosmetic changes, renaming, formatting, configuration, and packaging changes are not substantial modifications. Redistributing the Software unmodified, or with only minor modifications, is not permitted, except that this restriction does not apply to a product or service that is a substantial modification under this Section. This Section does not restrict private use of the Software.
+
 2. Commercial and Private Use
 
-The Software may be used for commercial and non-commercial purposes, including incorporation into commercial products and services. You may use the Software privately, whether modified or not, without any obligation beyond the permission granted above.
+The Software may be used for commercial and non-commercial purposes, including incorporation into commercial products and services. You may use the Software privately, whether modified or not, without any obligation beyond the permission granted above. You may not sell the Software itself or sublicense it for a fee. A fee is for the Software itself if it is charged for access to or use of the Software alone, rather than for a product or service that incorporates it. Incorporating the Software into a paid product or service is permitted, provided you comply with Section 1A.
 
 3. Combination with Other Software
 
-The Software may be combined with software licensed under other terms. Each component remains subject to its own license, and nothing in this license restricts or overrides the terms of that other software. The combined work must still satisfy the conditions of this license with respect to the Software.
+The Software may be combined with software licensed under other terms. Each component remains subject to its own license, and nothing in this license restricts or overrides the terms of that other software. The combined work must still satisfy the conditions of this license with respect to the Software. If the combined work cannot satisfy both this license and the other license, you may not distribute it.
 
 4. Contributions
 
@@ -50,7 +60,7 @@ This license does not grant any right to use the name "Nythxion Studios," its lo
 
 7. Termination and Cure
 
-If you fail to comply with Section 1, your rights under this license terminate automatically. If you cure the violation within 30 days after receiving written notice of it from the copyright holder, your rights are reinstated. Termination under this Section does not affect the rights of anyone who received copies of the Software from you in compliance with this license.
+If you fail to comply with Section 1, Section 1A, or Section 2, your rights under this license terminate automatically. If you cure the violation within 14 days after receiving written notice of it from the copyright holder, your rights are reinstated. Termination under this Section does not affect the rights of anyone who received copies of the Software from you in compliance with this license.
 
 8. Disclaimer of Warranty
 
@@ -58,7 +68,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 9. Limitation of Liability
 
-IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW.
+IN NO EVENT SHALL THE COPYRIGHT HOLDERS OR CONTRIBUTORS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE, TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW. NOTHING IN THIS LICENSE LIMITS ANY LIABILITY THAT CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW, INCLUDING LIABILITY FOR INTENT, GROSS NEGLIGENCE, INJURY TO LIFE, BODY, OR HEALTH, OR LIABILITY UNDER MANDATORY CONSUMER PROTECTION LAW.
 
 10. Governing Law
 
